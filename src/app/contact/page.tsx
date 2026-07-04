@@ -5,8 +5,8 @@ import { Mail, Phone, MapPin, Clock, Send, Check } from "lucide-react";
 
 const INFO = [
   { icon: MapPin, label: "Visit Us", value: "Gulshan, Dhaka, Bangladesh" },
-  { icon: Phone, label: "Call Us", value: "+880 1XXX-XXXXXX" },
-  { icon: Mail, label: "Email Us", value: "hello@autentica.bd" },
+  { icon: Phone, label: "Call Us", value: "+351 963 087 547" },
+  { icon: Mail, label: "Email Us", value: "nameeramehejabin98@gmail.com" },
   { icon: Clock, label: "Hours", value: "Sat–Thu · 10am – 8pm" },
 ];
 

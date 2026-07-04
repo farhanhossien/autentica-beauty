@@ -44,10 +44,10 @@ export default function Footer() {
                 <MapPin size={15} className="text-gold" /> Dhaka, Bangladesh
               </p>
               <p className="flex items-center gap-2.5">
-                <Phone size={15} className="text-gold" /> +880 1XXX-XXXXXX
+                <Phone size={15} className="text-gold" /> +351 963 087 547
               </p>
               <p className="flex items-center gap-2.5">
-                <Mail size={15} className="text-gold" /> hello@autentica.bd
+                <Mail size={15} className="text-gold" /> nameeramehejabin98@gmail.com
               </p>
             </div>
             <div className="mt-6 flex gap-3">
